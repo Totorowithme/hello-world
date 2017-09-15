@@ -2,4 +2,7 @@ Sunday
 Saturday
 Friday
 Thursday
+Wednesday
+Tuesday
+Monday
 They are all good days
